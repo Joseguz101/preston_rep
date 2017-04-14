@@ -1,6 +1,6 @@
 //  main.cpp
 //  water
-//  Created by Preston Ong on 9/27/16.
+//  Created by Preston Ong on 9/27/16
 //  Copyright © 2016 Preston Ong. All rights reserved.
 //  This program calculates the approximate amount of water produced, according to the mass of hydrogen and oxygen.
 
